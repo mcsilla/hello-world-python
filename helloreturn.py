@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def get_hello_message():
   return "Hello, World!"
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def get_hello_message():
   name = input("What's your name?\n")
   if name == "":

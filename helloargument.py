@@ -1,7 +1,8 @@
+#!/usr/bin/env python3
 def get_user_name():
   name = input("What's your name?\n")
   return name.capitalize()
-  
+
 
 def get_hello_message(name):
   if name == "":
